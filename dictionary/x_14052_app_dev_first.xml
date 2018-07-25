@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="First" max_length="40" name="x_14052_app_dev_first" type="collection">
+        <element label="Incident" max_length="32" name="incident" reference="incident" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Service" max_length="1000" name="service" type="string"/>
+        <index name="index">
+            <element name="incident"/>
+        </index>
+    </element>
+</database>

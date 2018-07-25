@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="First" language="en" table="x_14052_app_dev_first">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>First</label>
+            <language>en</language>
+            <name>x_14052_app_dev_first</name>
+            <plural>Firsts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>rohan</sys_created_by>
+            <sys_created_on>2018-07-22 09:29:45</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>c6ccd2c0db23530071a1771ebf9619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>First</sys_name>
+            <sys_package display_value="Application Developer" source="x_14052_app_dev">332b9240db23530071a1771ebf961957</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Application Developer">332b9240db23530071a1771ebf961957</sys_scope>
+            <sys_update_name>sys_documentation_x_14052_app_dev_first__en</sys_update_name>
+            <sys_updated_by>rohan</sys_updated_by>
+            <sys_updated_on>2018-07-22 09:29:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
